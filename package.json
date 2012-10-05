@@ -1,7 +1,7 @@
 {
   "name": "express-mobile-detection",
-  "version": "0.0.3",
-  "description": "Express middleware to check useragent for mobile or tablet devices.",
+  "version": "0.0.4",
+  "description": "[DEPRECATED] Express middleware to check useragent for mobile or tablet devices.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha -R list ./test/test.js"
